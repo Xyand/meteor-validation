@@ -6,6 +6,6 @@
   "version": "0.0.7",
   "git": "https://github.com/possibilities/meteor-validation.git",
   "packages": {
-    "underscore-string": "2.2.0rc.1"
+    "underscore-string": "2.3.3"
   }
 }
